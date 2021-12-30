@@ -1,0 +1,91 @@
+{
+    "Char" : { 
+      "Tier5" : [
+        "Mona",
+        "Keqing", 
+        "Diluc", 
+        "Jean",
+        "Qiqi",
+        "Baal"
+      ],
+      
+      "Tier4G" : [
+        "Kujou Sara",
+        "Sucrose",
+        "XiangLing"
+      ],   
+
+      "Tier4" : [
+        "Kujou Sara",
+        "Beidou",
+        "Amber",
+        "Bennet",
+        "Chongyun",
+        "Diona",
+        "Kaeya",
+        "Lisa",
+        "Nigguang",
+        "Noelle",
+        "Razor",
+        "Rosaria",
+        "XiangLing",
+        "Xingqiu",
+        "Xianyan",
+        "Yanfei",
+        "A Flauta",
+        "O Flash do Beco",
+        "Espada da Descensão",
+        "Espada do Sacrifício",
+        "Rugido do Leão",
+        "Espada de Favonius",
+        "Lança de Favonius",
+        "Perdição do Dragão",
+        "O Sino",
+        "Espadão do Sacrifício",
+        "Desrtuidor de Chuva",
+        "Lâmina Lítica",
+        "Espadão de Favonius",
+        "Vinho e Canção",
+        "Sinfonia dos Indolentes",
+        "Catalizador do Sacrifício",
+        "Codex de Favonius",
+        "Olho da Percepção",
+        "O Ultimo Arconde",
+        "Arco do Sacrifício",
+        "Arco Enferrujado",
+        "Arco de Favonius",
+        "Alley Hunter"
+      ],
+    
+      "Tier3" : [
+        "Espada Útil do Viajane",
+        "Espada Skyrider",
+        "Prenúncio do Alvorecer",
+        "Lâmina de Filé",
+        "Espada de Ferro Negro",
+        "Aço Frio",
+        "Borla Branca",
+        "Alabarda",
+        "Borla Preta",
+        "Espadão de Ferro Branco",
+        "Espadão Skyrider', c[0]",
+        "Espadão de Quarizo",
+        "Sombra Ferrosa",
+        "Porrete da Razão",
+        "Espadão Manchado de Sangue",
+        "Nefria Gêmea",
+        "Histórias Emocionanes de Dragon Slayers",
+        "Histórias de Outro Mundo",
+        "Guia de Magia",
+        "Orb de Esmeralda",
+        "Catalizador Âmbar",
+        "Estilingue",
+        "Juramento do Atirador",
+        "Arco Recurvo",
+        "Arco de Corvo",
+        "Mensageiro",
+        "Arco de Ébano"
+      ]
+    }
+}
+    
