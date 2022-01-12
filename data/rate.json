@@ -1,0 +1,59 @@
+{
+  "player": {
+    "sky": {
+      "pit": 7,
+      "tier4": 0,
+      "tier5": false
+    },
+    "ry": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "alek": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "joelson": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "maico": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "joenison": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "Peter": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "caio": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "luis": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "lila": {
+      "pit": 0,
+      "tier4": 0,
+      "tier5": false
+    },
+    "char": {
+      "pit": 10,
+      "tier4": 10,
+      "tier5": false
+    }
+  }
+}
